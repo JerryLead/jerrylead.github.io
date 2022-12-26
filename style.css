@@ -236,6 +236,7 @@ ul, ol, dl {
 	margin-bottom: 0.8em;
 }
 
+
 dt {
 	margin-top: 0.5em;
 	margin-bottom: 0;
@@ -247,6 +248,7 @@ dl {
 
 dd {
 	color: #222222;
+	padding-top: 0.2em;
 }
 
 dd > *:first-child {
